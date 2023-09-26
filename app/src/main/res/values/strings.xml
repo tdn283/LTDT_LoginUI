@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">LoginUI</string>
+    <string name="app_title">Login</string>
+    <string name="login_title">Login</string>
+    <string name="forgotpwd_text" translatable="false">Forgot Password?</string>
+    <string name="txt_signup" translatable="false">Don\'t have an account?</string>
+    <string name="textView2">Sign up</string>
+    <string name="signup_title">Create Account</string>
+    <string name="back_txt">Back</string>
+    <string name="txtName_hint">Full Name</string>
+    <string name="txtEmail_hint">Email</string>
+    <string name="txtPhone_hint">Phone Number</string>
+    <string name="txtPassword_hint">Password</string>
+    <string name="txtConfirmPswd_hint">Confirm Password</string>
+    <string name="btnEnter_text">Create Account</string>
+    <string name="textView">Already have an account?</string>
+    <string>Login</string>
+</resources>
